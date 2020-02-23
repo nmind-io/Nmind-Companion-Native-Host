@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "chrome-extension://phehpbpffhpnbhgmlmipddaoplhcakcj/ --parent-window=0"
+    }
+  }
+}
